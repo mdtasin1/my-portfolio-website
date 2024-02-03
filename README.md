@@ -4,7 +4,7 @@ A simple portfolio website showcasing my projects. Built with HTML, CSS, and Jav
 
 ## About Me
 
-I'm a passionate developer with expertise in [mention your skills]. This portfolio serves as a glimpse into my work and projects.
+I'm a passionate developer with expertise in Java. This portfolio serves as a glimpse into my work and projects.
 
 ## Projects
 
